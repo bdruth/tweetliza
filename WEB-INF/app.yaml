@@ -1,0 +1,3 @@
+application: bdr-sinatra
+version: 1
+runtime: jruby
